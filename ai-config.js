@@ -30,7 +30,7 @@ window.AI_CONFIG = {
   GEMINI_MODEL: 'gemini-3.8-flash',
 
   // xAI Grok (https://console.x.ai)
-  GROK_API_KEY: 'c90977ff-ff0f-470e-a9f2-894bc782680e',
+  GROK_API_KEY: 'xai-G5ff3v9vw1vbknq3eEhyGNRKGPPey6JGTqkKyGHwDWGqKpJEolI3lOdJ9g31Hp21K61vslRfkCw6oG2J',
   GROK_MODEL: 'grok-4.6',
 
   // Optional market data (https://twelvedata.com)
