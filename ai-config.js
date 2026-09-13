@@ -26,7 +26,7 @@ window.AI_CONFIG = {
   OPENAI_MODEL: 'gpt-4o-mini',
 
   // Google Gemini (https://aistudio.google.com/apikey)
-  GEMINI_API_KEY: 'AQ.Ab8RN6Jgb_bTgvfiJT99ZYym2hC7tBtPjLcE8ZjC6XEattM0rQ',
+  GEMINI_API_KEY: 'AQ.Ab8RN6JIWow-i3-puX6nfQD1h42ep7a4EnKub3YXfk6HioHiIg',
   GEMINI_MODEL: 'gemini-3.8-flash',
 
   // xAI Grok (https://console.x.ai)
