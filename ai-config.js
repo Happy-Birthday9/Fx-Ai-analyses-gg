@@ -22,17 +22,17 @@
 */
 window.AI_CONFIG = {
   // OpenAI (https://platform.openai.com/api-keys)
-  OPENAI_API_KEY: 'PASTE_OPENAI_API_KEY_HERE',
+  OPENAI_API_KEY: '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',
   OPENAI_MODEL: 'gpt-4o-mini',
 
   // Google Gemini (https://aistudio.google.com/apikey)
-  GEMINI_API_KEY: 'PASTE_GEMINI_API_KEY_HERE',
+  GEMINI_API_KEY: 'AQ.Ab8RN6Jgb_bTgvfiJT99ZYym2hC7tBtPjLcE8ZjC6XEattM0rQ',
   GEMINI_MODEL: 'gemini-3.8-flash',
 
   // xAI Grok (https://console.x.ai)
-  GROK_API_KEY: 'PASTE_GROK_API_KEY_HERE',
+  GROK_API_KEY: 'c90977ff-ff0f-470e-a9f2-894bc782680e',
   GROK_MODEL: 'grok-4.6',
 
   // Optional market data (https://twelvedata.com)
-  TWELVE_DATA_API_KEY: 'PASTE_TWELVE_DATA_API_KEY_HERE'
+  TWELVE_DATA_API_KEY: '407e0c8d63e641e0b7379977b9f2920a'
 };
